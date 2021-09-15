@@ -49,12 +49,12 @@ for i in range(0, 5):
 # print(dictMonthSeptember)
 # print(dictMonthSeptember.items())
 
-# for key, value in dictMonthSeptember.items():
-#     print(key, value)
-
-
-
+for key, value in dictMonthSeptember.items():
+    print(key, value)
 
 # print(str(week[1]))
 
 # v = c.prmonth(2021, 9)
+
+
+print("Hello Vitaly")
